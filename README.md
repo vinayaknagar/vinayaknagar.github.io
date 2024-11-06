@@ -6,5 +6,5 @@ Portfolio website built using HTML5, CSS3, JavaScript, and jQuery.
 
 Feel free to reach me through the below handles if you'd like to contact me.
 
-[![linkedin](https://www.linkedin.com/in/sparsh-rajvanshi-742044248/)](https://www.linkedin.com/in/sparsh-rajvanshi-742044248/)
-[![instagram](https://www.instagram.com/sparsh__rajvanshi)](https://www.instagram.com/sparsh__rajvanshi)
+[![linkedin](https://www.linkedin.com/in/vinayaknagar/)](https://www.linkedin.com/in/vinayaknagar/)
+[![instagram](https://www.instagram.com/vins__nagar/)](https://www.instagram.com/vins__nagar/)
